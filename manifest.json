@@ -4,22 +4,22 @@
   "icons": [
     {
       "src": "images/logo_128x128.png",
-      "sizes": "128x128",
+      "sizes": "128x32",
       "type": "image/png"
     },
     {
       "src": "images/logo_144x144.png",
-      "sizes": "144x144",
+      "sizes": "144x37",
       "type": "image/png"
     },
     {
       "src": "images/logo_152x152.png",
-      "sizes": "152x152",
+      "sizes": "152x39",
       "type": "image/png"
     },
     {
       "src": "images/logo.png",
-      "sizes": "192x192",
+      "sizes": "192x50",
       "type": "image/png"
     }
   ],
