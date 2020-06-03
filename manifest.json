@@ -4,7 +4,7 @@
   "icons": [
     {
       "src": "images/logo_128x128.png",
-      "sizes": "128x32",
+      "sizes": "128x33",
       "type": "image/png"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "src": "images/logo_192x192.png",
-      "sizes": "194x50",
+      "sizes": "192x49",
       "type": "image/png"
     }
   ],
