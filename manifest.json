@@ -18,8 +18,8 @@
       "type": "image/png"
     },
     {
-      "src": "images/logo.png",
-      "sizes": "192x50",
+      "src": "images/logo_192x192.png",
+      "sizes": "194x50",
       "type": "image/png"
     }
   ],
